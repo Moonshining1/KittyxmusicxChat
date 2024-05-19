@@ -16,7 +16,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/Moonshining6/kittyxmusicxchat",
+  "repository": "https://github.com/Moonshining1/kittyxmusicxchat",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
